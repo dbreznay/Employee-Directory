@@ -1,0 +1,16 @@
+.navbar {
+    background-color: darkgray;
+}
+
+.navbar-collapse {
+    margin: 0 auto;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.search-area {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
