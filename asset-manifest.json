@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dbreznay/employee-directory/static/css/main.5f361e03.chunk.css",
+    "main.js": "/dbreznay/employee-directory/static/js/main.e0830073.chunk.js",
+    "main.js.map": "/dbreznay/employee-directory/static/js/main.e0830073.chunk.js.map",
+    "runtime-main.js": "/dbreznay/employee-directory/static/js/runtime-main.cb543d1f.js",
+    "runtime-main.js.map": "/dbreznay/employee-directory/static/js/runtime-main.cb543d1f.js.map",
+    "static/js/2.8e1b47c6.chunk.js": "/dbreznay/employee-directory/static/js/2.8e1b47c6.chunk.js",
+    "static/js/2.8e1b47c6.chunk.js.map": "/dbreznay/employee-directory/static/js/2.8e1b47c6.chunk.js.map",
+    "index.html": "/dbreznay/employee-directory/index.html",
+    "precache-manifest.bbc5c24857f954fe3f604c9a26c0db25.js": "/dbreznay/employee-directory/precache-manifest.bbc5c24857f954fe3f604c9a26c0db25.js",
+    "service-worker.js": "/dbreznay/employee-directory/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/dbreznay/employee-directory/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.8e1b47c6.chunk.js.LICENSE.txt": "/dbreznay/employee-directory/static/js/2.8e1b47c6.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/dbreznay/employee-directory/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb543d1f.js",
+    "static/js/2.8e1b47c6.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e0830073.chunk.js"
+  ]
+}
